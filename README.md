@@ -4,6 +4,7 @@ RESTfull API implementada con Django Rest Framework (DRF) | PostgreSQL | Docker 
 ____
 ### Planteamiento del problema
 Desarrollar una RESTfull API para el siguiente diagrama.
+
 ![diagrama](./images/1.png)
 
 ____
