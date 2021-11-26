@@ -2,6 +2,11 @@
 RESTfull API implementada con Django Rest Framework (DRF) | PostgreSQL | Docker | Compose y realizada para el taller de Future Developers.
 
 ____
+### Planteamiento del problema
+Desarrollar una RESTfull API para el siguiente diagrama.
+![diagrama](./images/1.png)
+
+____
 ### Ejecución del proyecto
 
 1. Accede a la carpeta rest_products.
