@@ -1,9 +1,9 @@
-# RESTfull API de Productos
-RESTfull API implementada con Django Rest Framework (DRF) | PostgreSQL | Docker | Compose y realizada para el taller de Future Developers.
+# RESTful API de Productos
+RESTful API implementada con Django Rest Framework (DRF) | PostgreSQL | Docker | Compose y realizada para el taller de Future Developers.
 
 ____
 ### Planteamiento del problema
-Desarrollar una RESTfull API para el siguiente diagrama.
+Desarrollar una RESTful API para el siguiente diagrama.
 
 ![diagrama](./images/1.png)
 
